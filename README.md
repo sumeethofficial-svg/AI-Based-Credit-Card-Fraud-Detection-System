@@ -25,6 +25,18 @@ This project implements an end-to-end machine learning system to detect fraudule
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP
 
+## Results
+- High recall for fraud detection
+
+- ROC-AUC consistently above 0.97
+
+- Balanced trade-off between fraud detection and false alerts
+
+## Future Improvements
+- Real-time inference using FastAPI
+- MLflow for experiment tracking
+- Cost-based optimization
+
 ## How to Run
 1. Download the dataset from Kaggle
 2. Place `creditcard.csv` in `data/raw/`
