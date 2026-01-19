@@ -5,6 +5,7 @@ This project implements an end-to-end machine learning system to detect fraudule
 
 ## Dataset
 - Source: Kaggle Credit Card Fraud Detection Dataset
+- https://www.kaggle.com/mlg-ulb/creditcardfraud
 - Transactions: 284,807
 - Fraud cases: ~0.17%
 
